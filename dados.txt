@@ -1,0 +1,19 @@
+AULA 2
+.head() mostra os dados
+.info() mostra as infos da tabela
+mostrar qual culinária é mais popular
+['nome da coluna']
+
+value-counts() ela mostra a frequência que aparece cada culinária na base de dados
+
+consultar um dado
+== 'nome da coluna'
+
+[] no final com .mean() mostra as médias.
+
+AULA 3
+describe() -> calcula media, desvio padrão, min, max para cada coluna
+
+['nome da coluna'] value_counts() pega todos os dados e mostra sua frequência - pode ter dados do mesmo local escritos de maneiras diferentes
+
+
